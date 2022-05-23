@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #3A3845;
+  font-family: 'Koulen', arial;
+}
+
+h1 {
+  margin: 50 auto 0 auto;
+  color: #826F66;
+  padding: 0;
+  font-size: 5.625em;
+}
+
+h2 {
+  color: #C69B7B;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #C69B7B;
+  margin: 0;
+  padding: 0;
+  font-size: 2.25rem;
+}
+
+p {
+  margin: 0;
+  color: #FFF6EA;
+  font-size: 30px;
+  font-family: 'Bebas Neue', cursive;
+}
+
+div {
+  position: relative;
+  top: 10%;
+}
+
+img {
+  margin: 0;
+}
+
+a {
+  font-size: 1.5rem;
+  color: #C69B7B;
+  margin:0 10px 0 10px;
+}
+
+.top-container {
+  background-color: #F7CCAC;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 0;
+}
+
+.bottom-container {
+  background-color: #3A3845;
+}
+
+.bottom-cloud {
+  position: absolute;
+  width: 15%;
+  left: 15%;
+  top: 9%;
+}
+
+.top-cloud {
+  position: absolute;
+  width: 15%;
+  left: 55%;
+  top: 3%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 20%;
+  bottom: 300px;
+}
+
+.base-sun {
+  position: relative;
+  bottom: 0;
+}
+
+.skills {
+  margin: 100px 0 0;
+}
+
+.skill-icon-comm {
+  width: 20%;
+  float:left;
+  margin-right: 3%;
+
+}
+
+.skill-icon-comp {
+  width: 20%;
+  float:right;
+  margin-left: 3%;
+
+}
+
+.skill-icon-cook {
+  width: 20%;
+  float:left;
+  margin-right: 3%;
+
+}
+
+.skill-row {
+  margin: 100px auto 200px auto;
+  width: 80%;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row-right {
+  margin: 100px auto 100px auto;
+  width: 80%;
+  text-align: right;
+  line-height: 2;
+}
+
+.contact-me {
+  margin: 200px auto 100px auto;
+}
+
+.btn {
+  font-family: Arial;
+  color: #F7CCAC;
+  font-size: 20px;
+  background: #3A3845;
+  margin-top: 25px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border:none;
+}
+
+.btn:hover {
+  background: #E04D01;
+  background-image: -webkit-linear-gradient(top, #E04D01, #FF7700);
+  background-image: -moz-linear-gradient(top, #E04D01, #FF7700);
+  background-image: -ms-linear-gradient(top, #E04D01, #FF7700);
+  background-image: -o-linear-gradient(top, #E04D01, #FF7700);
+  background-image: linear-gradient(to bottom, #E04D01, #FF7700);
+  text-decoration: none;
+}
+
+.follows-title {
+  margin: 0;
+
+}
